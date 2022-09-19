@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9971678574",
+    "firebase_url": "https://temp-monitor-realtime-default-rtdb.firebaseio.com",
+    "project_id": "temp-monitor-realtime",
+    "storage_bucket": "temp-monitor-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9971678574:android:099b6aa37e5cdac66b157f",
+        "android_client_info": {
+          "package_name": "com.example.thermal_humid_monitor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9971678574-bcvpsfgudreql1578cup4fdodc86mct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt5BfNEfhm9m1ZLATy6UV0W9F-IAGHgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9971678574-bcvpsfgudreql1578cup4fdodc86mct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
